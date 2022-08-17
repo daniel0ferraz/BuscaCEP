@@ -16,6 +16,7 @@ module.exports = {
         'react/jsx-uses-vars': 'error',
         'react-hooks/rules-of-hooks': 'error',
         'react-hooks/exhaustive-deps': 'warn',
+        '@typescript-eslint/no-unused-vars': 'off',
       },
     },
   ],
